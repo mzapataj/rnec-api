@@ -12,6 +12,9 @@ require "action_mailbox/engine"
 require "action_text/engine"
 require "action_view/railtie"
 require "action_cable/engine"
+require 'net/http'
+require 'pstore'
+require 'mechanize'
 # require "sprockets/railtie"
 # require "rails/test_unit/railtie"
 
