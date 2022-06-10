@@ -27,7 +27,7 @@ gem "rack-cors", ">= 1.0.4"
 
 gem "loofah", ">= 2.3.1"
 
-gem 'mechanize', '~> 2.7', '>= 2.7.5'
+gem 'mechanize', '~> 2.8'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
